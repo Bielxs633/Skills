@@ -63,10 +63,10 @@
 |`blender`                                |<img src="./icons/Blender-Light.svg" width="50">        |<img src="./icons/Blender-Dark.svg" width="50">        |
 |`bokeh`                                  |<img src="./icons/Bokeh-Light.svg" width="50">          |<img src="./icons/Bokeh-Dark.svg" width="50">          |
 |`bootstrap`                              |<img src="./icons/Bootstrap.svg" width="50">            |<img src="./icons/Bootstrap.svg" width="50">           |
-|`brave`                                  |<img src="./icons/brave-Light.svg" width="50">          |<img src="./icons/brave-Dark.svg" width="50">          |
+|`brave`                                  |<img src="./icons/brave-light.svg" width="50">          |<img src="./icons/brave-dark.svg" width="50">          |
 |`breeze`                                 |<img src="./icons/breeze.svg" width="50">               |<img src="./icons/breeze.svg" width="50">              |
 |`bridge`                                 |<img src="./icons/bridge.svg" width="50">               |<img src="./icons/bridge.svg" width="50">              |
 |`bsd`                                    |<img src="./icons/BSD-Light.svg" width="50">            |<img src="./icons/BSD-Dark.svg" width="50">            |
-|`btlo`                                   |<img src="./icons/btlo-Light.svg" width="50">           |<img src="./icons/btlo-Dark.svg" width="50">           |
+|`btlo`                                   |<img src="./icons/btlo-light.svg" width="50">           |<img src="./icons/btlo-dark.svg" width="50">           |
 |`bulma`                                  |<img src="./icons/bulma-light.svg" width="50">          |<img src="./icons/bulma-dark.svg" width="50">          |
-|`bun`                                    |<img src="./icons/Bun-light.svg" width="50">            |<img src="./icons/Bun-Dark.svg" width="50">            |
+|`bun`                                    |<img src="./icons/Bun-Light.svg" width="50">            |<img src="./icons/Bun-Dark.svg" width="50">            |
