@@ -45,8 +45,6 @@
 |`azure`                                  |<img src="./icons/Azure-Light.svg" width="50">          |<img src="./icons/Azure-Dark.svg" width="50">          |
 |`azuredevops`                            |<img src="./icons/azuredevops-light.svg" width="50">    |<img src="./icons/azuredevops-dark.svg" width="50">    |
 
-# Skills
-
 ## B-
 |                 Icon ID                 |                       Icon Light                       |                       Icon Dark                       |
 |:---------------------------------------:| :-----------------------------------------------------:|:-----------------------------------------------------:|
