@@ -45,25 +45,28 @@
 |`azure`                                  |<img src="./icons/Azure-Light.svg" width="50">          |<img src="./icons/Azure-Dark.svg" width="50">          |
 |`azuredevops`                            |<img src="./icons/azuredevops-light.svg" width="50">    |<img src="./icons/azuredevops-dark.svg" width="50">    |
 
+# Skills
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## B-
+|                 Icon ID                 |                       Icon Light                       |                       Icon Dark                       |
+|:---------------------------------------:| :-----------------------------------------------------:|:-----------------------------------------------------:|
+|`babel`                                  |<img src="./icons/Babel.svg" width="50">                |<img src="./icons/Babel.svg" width="50">               |
+|`barbajs`                                |<img src="./icons/Barbajs.svg" width="50">              |<img src="./icons/Barbajs.svg" width="50">             |
+|`bash`                                   |<img src="./icons/Bash-Light.svg" width="50">           |<img src="./icons/Bash-Dark.svg" width="50">           |
+|`beeceptor`                              |<img src="./icons/Beeceptor-Light.svg" width="50">      |<img src="./icons/Beeceptor-Dark.svg" width="50">      |
+|`behance`                                |<img src="./icons/Behance.svg" width="50">              |<img src="./icons/Behance.svg" width="50">             |
+|`behat`                                  |<img src="./icons/Behat-Light.svg" width="50">          |<img src="./icons/Behat-Dark.svg" width="50">          |
+|`bevy`                                   |<img src="./icons/Bevy-Light.svg" width="50">           |<img src="./icons/Bevy-Dark.svg" width="50">           |
+|`bigquery`                               |<img src="./icons/Bigquery-Light.svg" width="50">       |<img src="./icons/Bigquery-Dark.svg" width="50">       |
+|`bitbucket`                              |<img src="./icons/BitBucket-Light.svg" width="50">      |<img src="./icons/BitBucket-Dark.svg" width="50">      |
+|`blazor`                                 |<img src="./icons/Blazor-Light.svg" width="50">         |<img src="./icons/Blazor-Dark.svg" width="50">         |
+|`blender`                                |<img src="./icons/Blender-Light.svg" width="50">        |<img src="./icons/Blender-Dark.svg" width="50">        |
+|`bokeh`                                  |<img src="./icons/Bokeh-Light.svg" width="50">          |<img src="./icons/Bokeh-Dark.svg" width="50">          |
+|`bootstrap`                              |<img src="./icons/Bootstrap.svg" width="50">            |<img src="./icons/Bootstrap.svg" width="50">           |
+|`brave`                                  |<img src="./icons/brave-Light.svg" width="50">          |<img src="./icons/brave-Dark.svg" width="50">          |
+|`breeze`                                 |<img src="./icons/breeze.svg" width="50">               |<img src="./icons/breeze.svg" width="50">              |
+|`bridge`                                 |<img src="./icons/bridge.svg" width="50">               |<img src="./icons/bridge.svg" width="50">              |
+|`bsd`                                    |<img src="./icons/BSD-Light.svg" width="50">            |<img src="./icons/BSD-Dark.svg" width="50">            |
+|`btlo`                                   |<img src="./icons/btlo-Light.svg" width="50">           |<img src="./icons/btlo-Dark.svg" width="50">           |
+|`bulma`                                  |<img src="./icons/bulma-light.svg" width="50">          |<img src="./icons/bulma-dark.svg" width="50">          |
+|`bun`                                    |<img src="./icons/Bun-light.svg" width="50">            |<img src="./icons/Bun-Dark.svg" width="50">            |
